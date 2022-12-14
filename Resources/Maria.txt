@@ -1,0 +1,12 @@
+          Bank EASYBANK
+
+
+Account type: Checking Account
+Account owner: Maria
+
+Account replenishment by 123
+Money left: 223
+Credit left: 200
+
+
+Bank Owner: Kyselova Mariia
